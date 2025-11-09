@@ -1,1 +1,1 @@
-# Muay-Thai-Technique-Detection-YOLOv8-
+# Muay_Thai_Technique_Detection_YOLOv8
