@@ -1,8 +1,8 @@
 # Muay Thai Technique Detection (YOLOv8)
 
-This project is a real-time object detection system built to identify and classify Muay Thai striking techniques. It utilizes the YOLOv8 model trained on a custom dataset to recognize 7 distinct classes.
+This project is a object detection system built to identify and classify Muay Thai striking techniques. It utilizes the YOLOv8 model trained on a custom dataset to recognize 7 distinct classes.
 
-## Results
+## Test Results
 
 | Labels | Predictions |
 | :---: | :---: |
@@ -19,7 +19,7 @@ The model was evaluated on the test set using the `best.pt` checkpoint.
 
 | Results | Confusion matrix |
 | :---: | :---: |
-| <img alt="results" src="https://github.com/user-attachments/assets/7c39032a-dbc0-4d1f-baaa-8c326e6c637e" /> | <img alt="confusion_matrix" src="https://github.com/user-attachments/assets/49852ecd-e9d8-4154-abc1-e067007c1479" /> |
+| <img alt="results" src="https://github.com/user-attachments/assets/112bf200-6880-4467-bab8-4cdb9d93015b" /> | <img alt="confusion_matrix" src="https://github.com/user-attachments/assets/eb941810-9c6b-4125-93c2-048c5ffae23f" /> |
 
 ---
 
