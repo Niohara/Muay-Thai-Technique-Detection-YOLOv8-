@@ -37,6 +37,18 @@ The model is trained to detect the following 7 classes as defined in `data.yaml`
 
 ---
 
+## Dataset
+
+This project uses the Muay Thai dataset (Version 2) from Roboflow. URL: `https://universe.roboflow.com/myspace-7h2qj/muay-thai/dataset/2`
+
+To run this project:
+
+1. **Download the dataset from the Roboflow URL above. (Choose the "YOLOv8" format).**
+
+2. **Unzip the data and place the folders (train, valid, test) into the project directory according to the paths in `Data/data.yaml.`**
+
+---
+
 ## Installation
 Open the Windows (PowerShell) on this project's directory and run this command:
 1.  **Create a virtual environment:**
