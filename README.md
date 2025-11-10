@@ -8,7 +8,9 @@ This project is a object detection system built to identify and classify Muay Th
 | :---: | :---: |
 | <img alt="labels" src="https://github.com/user-attachments/assets/c771f4de-52ec-45bf-b808-d17923421abe" /> | <img alt="pred" src="https://github.com/user-attachments/assets/cbf3bb2d-0893-46fb-9ed3-967351fa1e5f" /> |
 
-### Model Performance
+---
+
+## Model Performance
 
 The model was evaluated on the test set using the `best.pt` checkpoint.
 
